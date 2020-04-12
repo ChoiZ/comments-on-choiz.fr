@@ -1,2 +1,3 @@
-# www.choiz.fr-utterances
-Blog comments by utterances
+# comments-on-choiz.fr
+
+Comments on https://www.choiz.fr by [utterances](https://utteranc.es)
